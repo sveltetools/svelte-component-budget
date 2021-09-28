@@ -1,0 +1,32 @@
+{
+    "name": "svelte-component-budget",
+    "version": "1.0.0",
+    "description": "SvelteJS preprocessor to control component's size (loc).",
+    "main": "index.js",
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "files": [
+        "src"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sveltetools/svelte-component-budget.git"
+    },
+    "keywords": [
+        "svelte",
+        "svelte preprocessor"
+    ],
+    "author": "PaulMaly",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sveltetools/svelte-component-budget/issues"
+    },
+    "homepage": "https://github.com/sveltetools/svelte-component-budget#readme",
+    "peerDependencies": {
+        "svelte": "3.x"
+    }
+}
