@@ -1,6 +1,6 @@
 {
     "name": "svelte-component-budget",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "SvelteJS preprocessor to control component's size (loc).",
     "main": "index.js",
     "engines": {

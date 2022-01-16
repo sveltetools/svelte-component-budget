@@ -30,6 +30,8 @@ module.exports = {
 ## Options
 
 * `budget` - line of code budget for Svelte components (default: 200).
+* `include` - array of regexps to match with filenames (default: []).
+* `exclude` - array of regexps to match with filenames (default: []).
 
 ## License
 
